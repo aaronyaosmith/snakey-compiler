@@ -1,8 +1,8 @@
 # Snakey
 
-A toy compiler for Snakey: a language reminscent of Python.
+A toy compiler for Snakey: a language reminiscent of Python.
 
-So far this is just a messy lexer, printing lexemes to stdout.
+So far this is just a messy lexer using `boost::spirit::lex`, printing lexemes to stdout.
 
 ## Example
 
